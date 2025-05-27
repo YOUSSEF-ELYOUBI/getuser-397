@@ -19,14 +19,19 @@
 
 - 📫 How to reach me **youssef.elyoubi3@usmba.ac.ma**
 
-- 📄 my resume [https://www.canva.com/design/DAGDdZy6frY/-bPv2MtyoT4VPSANB3KcEA/edit?utm_content=DAGDdZy6frY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGDdZy6frY/-bPv2MtyoT4VPSANB3KcEA/edit?utm_content=DAGDdZy6frY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 my resume [https://www.canva.com/design/DAGDdZy6frY/-bPv2MtyoT4VPSANB3KcEA/view?utm_content=DAGDdZy6frY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGDdZy6frY/-bPv2MtyoT4VPSANB3KcEA/view?utm_content=DAGDdZy6frY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <!-- Changed "edit" to "view" in Canva link for sharing -->
 
 - ⚡ Fun fact **I'm passionate about leveraging technology, from AI to cloud, to unlock data-driven insights!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/elyoubiagency" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elyoubiagency" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/youssefelyoubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youssefelyoubi" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/youssefelyoubi" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn"/></a>
+    <img width="5" /> <!-- Small spacer -->
+    <a href="mailto:youssef.elyoubi3@usmba.ac.ma"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Email"/></a>
+    <img width="5" /> <!-- Small spacer -->
+    <a href="https://twitter.com/elyoubiagency" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter"/></a>
+    <img width="5" /> <!-- Small spacer -->
+    <a href="https://www.canva.com/design/DAGDdZy6frY/-bPv2MtyoT4VPSANB3KcEA/view?utm_content=DAGDdZy6frY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><img src="https://img.shields.io/static/v1?message=Resume&logo=readthedocs&label=&color=8CA1AF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Resume"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,4 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=getuser-397&show_icons=true&locale=en&layout=compact" alt="getuser-397" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=getuser-397&show_icons=true&locale=en" alt="getuser-397" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=getuser-397&show_icons=true&locale=en" alt="getuser-397" /></p>
